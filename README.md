@@ -149,9 +149,12 @@ Modular design using .c and .h files
 
 <img width="1547" height="658" alt="Screenshot 2025-07-31 152340" src="https://github.com/user-attachments/assets/f4c02702-ca15-4e8c-858d-c5c749a5dd61" />
 
+
 <img width="1080" height="994" alt="Screenshot 2025-07-31 152427" src="https://github.com/user-attachments/assets/2b77f3f5-def7-42e2-95e5-c6366ae4f156" />
 
+
 <img width="1029" height="387" alt="Screenshot 2025-07-31 152540" src="https://github.com/user-attachments/assets/fd2cce54-4457-4e79-a04e-ff92b2018273" />
+
 
 <img width="1313" height="454" alt="Screenshot 2025-07-31 152720" src="https://github.com/user-attachments/assets/9454fa36-5ba2-4ab8-bc4e-15a08c7efc07" />
 
